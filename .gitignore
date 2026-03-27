@@ -1,1 +1,3 @@
 venv/
+models/*.pt
+data/**/*.mp4
